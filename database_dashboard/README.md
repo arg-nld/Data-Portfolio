@@ -3,7 +3,7 @@
 
 I am building an interactive market analysis dashboard using a massive dataset of Steam games (updated March 2025). 
 
-However, raw platform data is notoriously messy and huge. Before loading anything into Power BI or Tableau, I needed to build a Python pipeline to clean the data, fix formatting issues, and drop gigabytes of unnecessary text bloat so the dashboard runs smoothly.
+However, raw platform data is notoriously messy and huge. Before loading anything into Power BI, I needed to build a Python pipeline to clean the data, fix formatting issues, and drop megabytes of unnecessary text bloat so the dashboard runs smoothly.
 
 Here is a breakdown of how I prepared the data.
 
